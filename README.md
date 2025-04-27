@@ -4,15 +4,16 @@ This repository contains an R script that performs a regression analysis on the 
 
 ## **Table of Contents**
 
-* [Project Description](#bookmark=id.dvxia9ktq8e0)  
-* [Dataset](#bookmark=id.nbd8eaagxsh2)  
-* [Methodology](#bookmark=id.84fuv0z0gtgi)  
-* [Prerequisites](#bookmark=id.u6ucacy31e0d)  
-* [How to Run](#bookmark=id.9ok0aiiqlyi5)  
-* [Key Steps in the Code](#bookmark=id.j1bhbyy0wo29)  
-* [Results](#bookmark=id.vhh8t1qsp6be)  
-* [Visualizations](#bookmark=id.qotu2atoe0az)  
-* [Future Improvements](#bookmark=id.g1tctsj7r9f6)
+* [Project Description](#project-description)
+* [Dataset](#dataset)
+* [Methodology](#methodology)
+* [Prerequisites](#prerequisites)
+* [How to Run](#how-to-run)
+* [Key Steps in the Code](#key-steps-in-the-code)
+* [Results](#results)
+* [Visualizations](#visualizations)
+* [Future Improvements](#future-improvements)
+* [License](#license)
 
 ## **Project Description**
 
